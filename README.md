@@ -125,9 +125,6 @@
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvp/?username=Ray-player&color=F4B860&style=flat-square" alt="Profile Views"/>
-</p>
 
 <p style="font-size: 14px; color: #D4A030; margin-top: 20px;">
   🐦 Thanks for visiting! Feel free to explore my repos~
