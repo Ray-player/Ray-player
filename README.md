@@ -97,19 +97,35 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="140" style="transform: scaleX(-1);" />
+    <td align="center" valign="middle" width="90">
+      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="80" style="transform: scaleX(-1);" />
     </td>
-    <td align="center" width="450">
+    <td align="center" valign="middle">
       <table>
-        <tr><th>Repo</th><th>Description</th></tr>
-        <tr><td><a href="https://github.com/Ray-player/SimplePoi">SimplePoi</a></td><td>✨ Digital Twin foundation — data-driven UE5 viewport control & POI marking system plugin</td></tr>
-        <tr><td><a href="https://github.com/Ray-player/BlenderMeshToolkit">BlenderMeshToolkit</a></td><td>🚀 Blender plugin for batch model processing & UE5 reconstruction</td></tr>
-        <tr><td><a href="https://github.com/Ray-player/PixStreamProject">PixStreamProject</a></td><td>💡 One-to-many signaling server based on UE5 native Pixel Streaming</td></tr>
+        <thead>
+          <tr>
+            <th align="center">Repo</th>
+            <th align="center">Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center"><a href="https://github.com/Ray-player/SimplePoi">SimplePoi</a></td>
+            <td align="left">✨ Digital Twin foundation — data-driven UE5 viewport control &amp; POI marking system plugin</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/Ray-player/BlenderMeshToolkit">BlenderMeshToolkit</a></td>
+            <td align="left">🚀 Blender plugin for batch model processing &amp; UE5 reconstruction</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/Ray-player/PixStreamProject">PixStreamProject</a></td>
+            <td align="left">💡 One-to-many signaling server based on UE5 native Pixel Streaming</td>
+          </tr>
+        </tbody>
       </table>
     </td>
-    <td align="center" valign="middle" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="140" />
+    <td align="center" valign="middle" width="90">
+      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="80" />
     </td>
   </tr>
 </table>
@@ -124,7 +140,9 @@
 <img src="image/pigeonpop2.gif" alt="Cute Pigeon 2" width="200" height="200" />
 
 <br/>
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ray-player&color=F4B860&style=flat-square" alt="Profile Views"/>
+</p>
 
 <p style="font-size: 14px; color: #D4A030; margin-top: 20px;">
   🐦 Thanks for visiting! Feel free to explore my repos~

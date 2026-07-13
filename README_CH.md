@@ -78,8 +78,6 @@
     </td>
   </tr>
 </table>
-</tr>
-</table>
 
 ---
 
@@ -97,19 +95,35 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="140" style="transform: scaleX(-1);" />
+    <td align="center" valign="middle" width="90">
+      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="80" style="transform: scaleX(-1);" />
     </td>
-    <td align="center" width="450">
+    <td align="center" valign="middle">
       <table>
-        <tr><th>仓库</th><th>简介</th></tr>
-        <tr><td><a href="https://github.com/Ray-player/SimplePoi">SimplePoi</a></td><td>✨ 数字孪生底座,数据驱动的UE5的视点控制与POI标记系统的插件</td></tr>
-        <tr><td><a href="https://github.com/Ray-player/BlenderMeshToolkit">BlenderMeshToolkit</a></td><td>🚀 负责大批量模型处理与UE5重建的Blender插件</td></tr>
-        <tr><td><a href="https://github.com/Ray-player/PixStreamProject">PixStreamProject</a></td><td>💡 基于UE5原生像素流的一对多信令服务器</td></tr>
+        <thead>
+          <tr>
+            <th align="center">仓库</th>
+            <th align="center">简介</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center"><a href="https://github.com/Ray-player/SimplePoi">SimplePoi</a></td>
+            <td align="left">✨ 数字孪生底座,数据驱动的UE5的视点控制与POI标记系统的插件</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/Ray-player/BlenderMeshToolkit">BlenderMeshToolkit</a></td>
+            <td align="left">🚀 负责大批量模型处理与UE5重建的Blender插件</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/Ray-player/PixStreamProject">PixStreamProject</a></td>
+            <td align="left">💡 基于UE5原生像素流的一对多信令服务器</td>
+          </tr>
+        </tbody>
       </table>
     </td>
-    <td align="center" valign="middle" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="140" />
+    <td align="center" valign="middle" width="90">
+      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="80" />
     </td>
   </tr>
 </table>
