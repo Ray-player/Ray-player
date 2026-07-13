@@ -111,7 +111,7 @@
         <tbody>
           <tr>
             <td align="center"><a href="https://github.com/Ray-player/SimplePoi">SimplePoi</a></td>
-            <td align="left">✨ Digital Twin foundation — data-driven UE5 viewport control &amp; POI marking system plugin</td>
+            <td align="left">✨ Digital Twin foundation — data-driven UE5; POI marking system plugin</td>
           </tr>
           <tr>
             <td align="center"><a href="https://github.com/Ray-player/BlenderMeshToolkit">BlenderMeshToolkit</a></td>
