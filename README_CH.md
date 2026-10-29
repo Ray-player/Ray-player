@@ -85,7 +85,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ray-player&theme=github-light&area=true&color=F4B860&bg_color=00000000&line=F4B860&point=E8C870&hide_border=true&hide=issues" width="800" height="300" />
+<a href="https://github.com/Ray-player">
+  <img src="https://ghchart.rshah.org/D98C2B/Ray-player" alt="Ray-player's GitHub contribution heatmap" width="760" />
+</a>
 
 </div>
 
